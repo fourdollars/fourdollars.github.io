@@ -1,0 +1,47 @@
+<script type='text/javascript' src='https://dl.dropboxusercontent.com/u/6357556/SyntaxHighlighter/scripts/shCore.js'/>
+<script type='text/javascript' src='https://dl.dropboxusercontent.com/u/6357556/SyntaxHighlighter/scripts/shAutoloader.js'/>
+<link href='https://dl.dropboxusercontent.com/u/6357556/SyntaxHighlighter/styles/shCoreDefault.css' rel='stylesheet' type='text/css'/>
+<link href='https://dl.dropboxusercontent.com/u/6357556/SyntaxHighlighter/styles/shThemeDefault.css' rel='stylesheet' type='text/css'/>
+<script type='text/javascript'>
+window.onload = function(){
+  function path() {
+    var list = arguments, result = [];
+    for (var i in list)
+        result.push(list[i].replace('@', 'https://dl.dropboxusercontent.com/u/6357556/SyntaxHighlighter/scripts/'));
+    return result;
+  };
+  SyntaxHighlighter.autoloader.apply(null, path(
+    'applescript @shBrushAppleScript.js',
+    'actionscript3 as3 @shBrushAS3.js',
+    'bash shell @shBrushBash.js',
+    'coldfusion','cf @shBrushColdFusion.js',
+    'cpp c @shBrushCpp.js',
+    'c# c-sharp csharp @shBrushCSharp.js',
+    'css @shBrushCss.js',
+    'delphi pascal pas @shBrushDelphi.js',
+    'diff patch @shBrushDiff.js',
+    'erl erlang @shBrushErlang.js',
+    'groovy @shBrushGroovy.js',
+    'jfx javafx @shBrushJavaFX.js',
+    'java @shBrushJava.js',
+    'js jscript javascript @shBrushJScript.js',
+    'perl Perl pl @shBrushPerl.js',
+    'php @shBrushPhp.js',
+    'text plain @shBrushPlain.js',
+    'powershell ps @shBrushPowerShell.js',
+    'py python @shBrushPython.js',
+    'ruby rails ror rb @shBrushRuby.js',
+    'sass scss @shBrushSass.js',                                                                                                                                                                                                               
+    'scala @shBrushScala.js',
+    'sql @shBrushSql.js',
+    'vb vbnet @shBrushVb.js',
+    'xml xhtml xslt html @shBrushXml.js'                                                                                                                    
+  ));
+  SyntaxHighlighter.config.bloggerMode = true;
+  SyntaxHighlighter.defaults['auto-links'] = false;
+  SyntaxHighlighter.defaults['gutter'] = false;
+  SyntaxHighlighter.defaults['smart-tabs'] = false;
+  SyntaxHighlighter.defaults['toolbar'] = false;
+  SyntaxHighlighter.all();
+}
+</script>
