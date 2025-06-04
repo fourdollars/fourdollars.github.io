@@ -1,0 +1,5 @@
+theme: jekyll-theme-hacker
+title: $4 GitHub Page
+description: $4 GitHub Page
+include:
+  - README.md
