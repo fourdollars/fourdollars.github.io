@@ -2,11 +2,11 @@
 
 ## Profiles
 
-* [Codeium](https://codeium.com/profile/fourdollars)
 * [GitHub](https://github.com/fourdollars)
+* [HackerRank](https://www.hackerrank.com/profile/fourdollars)
 * [LeetCode](https://leetcode.com/u/fourdollars/)
 * [LinkedIn](https://www.linkedin.com/in/fourdollars/)
-* [HackerRank](https://www.hackerrank.com/profile/fourdollars)
+* [Windsurf](https://windsurf.com/profile/fourdollars)
 
 ## Blogs
 
