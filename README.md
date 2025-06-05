@@ -13,19 +13,6 @@
 * [Blogspot](https://fourdollars.blogspot.com/)
 * [Medium](https://medium.com/@fourdollars)
 
-## Projects
-
-* [betaradio](/betaradio/)
-* [d-i](/d-i/)
-* [diaas](/diaas/)
-* [energy-tools](/energy-tools/)
-* [ibus-zhuyin](/ibus-zhuyin/)
-* [quick](/quick/)
-* [taiwan-radio-tuner](/taiwan-radio-tuner/)
-* [x11-touchscreen-calibrator](/x11-touchscreen-calibrator/)
-* [commits-tilewall](https://github.com/fourdollars/commits-tilewall)
-* [webhook-relay](https://github.com/fourdollars/webhook-relay)
-
 ## Slides
 
 * [autotools](/autotools/)
@@ -35,21 +22,48 @@
 * [Use Bash shell script to make new resource type for Concourse CI](https://hackmd.io/@fourdollars/MakeResourceType)
 * [OEM metapackages & Concourse CI](https://hackmd.io/@fourdollars/oem-metapackages-and-concourse-ci)
 
-## Concourse CI resource types
+## Side Projects
 
-* [autopkgtest-resource](https://github.com/fourdollars/autopkgtest-resource) autopkgtest for ubuntu:latest
-* [deb-versions-resource](https://github.com/fourdollars/deb-versions-resource) Watch the versions of Debian binary packages and download those Debian binary packages
-* [dput-ppa-resource](https://github.com/fourdollars/dput-ppa-resource) dput Debian source package into Ubuntu PPA
-* [http-resource](https://github.com/fourdollars/http-resource) Watch and download HTTP URL by curl
-* [jenkins-resource](https://github.com/fourdollars/jenkins-resource) Watch and trigger the Jenkins builds
-* [jira-resource](https://github.com/fourdollars/jira-resource) A simple jira wrapper
-* [launchpad-bug-resource](https://github.com/fourdollars/launchpad-bug-resource) Watch the Launchpad bug status changes
-* [lp-api-resource](https://github.com/fourdollars/lp-api-resource) A simple lp-api wrapper
-* [mattermost-notification-resource](https://github.com/fourdollars/mattermost-notification-resource) Send the message to Mattermost
-* [rclone-resource](https://github.com/fourdollars/rclone-resource) A simple rclone wrapper
-* [trigger-resource](https://github.com/fourdollars/trigger-resource) Generate random digest everytime when it checks or puts
-* [samba-resource](https://github.com/fourdollars/samba-resource) Samba storage
-* [webdav-resource](https://github.com/fourdollars/webdav-resource) WebDAV storage
+* Bash
+    * Concourse CI resource types
+        * [autopkgtest-resource](https://github.com/fourdollars/autopkgtest-resource) autopkgtest for ubuntu:latest
+        * [deb-versions-resource](https://github.com/fourdollars/deb-versions-resource) Watch the versions of Debian binary packages and download those Debian binary packages
+        * [dput-ppa-resource](https://github.com/fourdollars/dput-ppa-resource) dput Debian source package into Ubuntu PPA
+        * [http-resource](https://github.com/fourdollars/http-resource) Watch and download HTTP URL by curl
+        * [jenkins-resource](https://github.com/fourdollars/jenkins-resource) Watch and trigger the Jenkins builds
+        * [jira-resource](https://github.com/fourdollars/jira-resource) A simple jira wrapper
+        * [launchpad-bug-resource](https://github.com/fourdollars/launchpad-bug-resource) Watch the Launchpad bug status changes
+        * [lp-api-resource](https://github.com/fourdollars/lp-api-resource) A simple lp-api wrapper
+        * [mattermost-notification-resource](https://github.com/fourdollars/mattermost-notification-resource) Send the message to Mattermost
+        * [rclone-resource](https://github.com/fourdollars/rclone-resource) A simple rclone wrapper
+        * [samba-resource](https://github.com/fourdollars/samba-resource) Samba storage
+        * [trigger-resource](https://github.com/fourdollars/trigger-resource) Generate random digest everytime when it checks or puts
+        * [webdav-resource](https://github.com/fourdollars/webdav-resource) WebDAV storage
+* C
+    * [ibus-zhuyin](/ibus-zhuyin/)
+        * ibus-zhuyin - a phonetic (Zhuyin/Bopomofo) Chinese input method.
+    * [x11-touchscreen-calibrator](/x11-touchscreen-calibrator/)
+        * X11 Touchscreen Calibrator runs as a daemon in the background. It will detect the touchscreen automatically and adjust the corresponding Coordinate Transformation Matrix of Touchscreen xinput when the resolution is changed. It should also support rotation, reflection and different scaling modes of display output.
+* Flutter
+    * [cid-holder](https://github.com/fourdollars/cid-holder)
+        * A Flutter webapp project that scans the QR codes
+* Python
+    * [diaas](/diaas/)
+        * debian-installer (d-i) as a service
+    * [energy-tools](/energy-tools/)
+        * This program is designed to collect the system profile and calculate the results of Energy Star (5.2 & 6.0 & 7.0 & 8.0) and ErP Lot 3 (Jan. 2016) or Lot 26 Tier 3 (Jan. 2019).
+    * [lp-api-proxy](https://github.com/fourdollars/lp-api-proxy)
+        * Launchpad API Proxy made by FastAPI to workaround CORS for https://api.launchpad.net/.
+* Go
+    * [lp-api](https://github.com/fourdollars/lp-api)
+        * A command line tool made by golang to interact with Launchpad API
+* Rust
+    * [commits-tilewall](https://github.com/fourdollars/commits-tilewall)
+        * A Rust application that generates a visual representation of commit activity across multiple local Git repositories.
+    * [rust-playground](https://github.com/fourdollars/rust-playground)
+        * Some examples for learning Rust programming language
+    * [webhook-relay](https://github.com/fourdollars/webhook-relay)
+        * Similar to https://smee.io/ but with additional secure supports for signature checking and encrypted payload.
 
 ## Open source contributions
 
