@@ -81,3 +81,4 @@
 * [GNOME Settings Daemon](https://gitlab.gnome.org/GNOME/gnome-settings-daemon/commit/3e6effd7dff2c1a0c2c1214e41f28737205eec72)
 * [GNOME Settings Daemon](https://gitlab.gnome.org/GNOME/gnome-settings-daemon/commit/68baf8a89261a298013f67942b66d48b23a142d3)
 * [GNOME Shell](https://gitlab.gnome.org/GNOME/gnome-shell/commit/4427197343e5facc7e695bebe2f0d74dae1ac666)
+* [sse-client](https://github.com/viniciusgerevini/sse-client/commits?author=fourdollars) EventSource implementation in Rust to handle streams of Server-Sent Events
