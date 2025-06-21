@@ -5,7 +5,6 @@
 * [HackerRank](https://www.hackerrank.com/profile/fourdollars)
 * [LeetCode](https://leetcode.com/u/fourdollars/)
 * [LinkedIn](https://www.linkedin.com/in/fourdollars/)
-* [Windsurf](https://windsurf.com/profile/fourdollars)
 
 ## Blogs
 
