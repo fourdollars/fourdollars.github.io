@@ -2,7 +2,6 @@
 
 ## Profiles
 
-* [GitHub](https://github.com/fourdollars)
 * [HackerRank](https://www.hackerrank.com/profile/fourdollars)
 * [LeetCode](https://leetcode.com/u/fourdollars/)
 * [LinkedIn](https://www.linkedin.com/in/fourdollars/)
