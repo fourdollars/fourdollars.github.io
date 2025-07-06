@@ -2,9 +2,13 @@
 
 ## Profiles
 
+* [Debian Packages overview](https://qa.debian.org/developer.php?login=fourdollars%40debian.org)
 * [HackerRank](https://www.hackerrank.com/profile/fourdollars)
 * [LeetCode](https://leetcode.com/u/fourdollars/)
 * [LinkedIn](https://www.linkedin.com/in/fourdollars/)
+* [Ubuntu Related packages](https://launchpad.net/~fourdollars/+related-packages)
+    * As a [Sponsor](https://udd.debian.org/cgi-bin/ubuntu-sponsorships.cgi?render=html&sponsor=Shih-Yuan+Lee*&sponsor_search=name&sponsoree=&sponsoree_search=name)
+    * As a [Sponsoree](https://udd.debian.org/cgi-bin/ubuntu-sponsorships.cgi?render=html&sponsor=&sponsor_search=name&sponsoree=Shih-Yuan+Lee*&sponsoree_search=name)
 
 ## Blogs
 
