@@ -7,7 +7,7 @@
 - [x] Task: Implement a responsive navigation menu across all pages
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Multi-Page Scaffolding & Navigation' (Protocol in workflow.md)
 
-## Phase 2: Content Migration & Homepage Bio
+## Phase 2: Content Migration & Homepage Bio [checkpoint: abf0645]
 
 - [x] Task: Migrate Side Projects list from README.md to `projects.md`
 - [x] Task: Migrate Slides and Blogs references to `slides.md`
