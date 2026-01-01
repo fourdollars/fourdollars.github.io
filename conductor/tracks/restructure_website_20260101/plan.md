@@ -22,7 +22,7 @@
 - [x] Task: Integrate and style feeds on the homepage
 - [ ] Task: Conductor - User Manual Verification 'Phase 3: Homepage Dynamic Feeds (JS Integration)' (Protocol in workflow.md)
 
-## Phase 4: Final Polishing & Build Verification
+## Phase 4: Final Polishing & Build Verification [checkpoint: a374eeb]
 
 - [x] Task: Audit mobile responsiveness and accessibility of the new layout
 - [x] Task: Verify the full site build via local analysis or dry-run (Verified via structural audit)
