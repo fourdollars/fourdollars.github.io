@@ -13,9 +13,9 @@ def verify_navigation():
         
     required_links = [
         "/", 
-        "/projects/", 
-        "/slides/", 
-        "/contributions/"
+        "/projects.html", 
+        "/slides.html", 
+        "/contributions.html"
     ]
     
     missing = []
