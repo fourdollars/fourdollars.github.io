@@ -12,7 +12,7 @@
 - [x] Task: Migrate Side Projects list from README.md to `projects.md`
 - [x] Task: Migrate Slides and Blogs references to `slides.md`
 - [x] Task: Migrate Open Source Contributions to `contributions.md`
-- [ ] Task: Refactor the homepage (README.md/index.md) to focus on a professional bio and highlights
+- [x] Task: Refactor the homepage (README.md/index.md) to focus on a professional bio and highlights
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Content Migration & Homepage Bio' (Protocol in workflow.md)
 
 ## Phase 3: Homepage Dynamic Feeds (JS Integration)
