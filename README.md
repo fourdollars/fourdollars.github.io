@@ -1,34 +1,13 @@
----
-layout: default
-title: Home
----
+# $4 Portfolio Source
 
-# Shih-Yuan Lee (FourDollars)
+This repository contains the source code for the portfolio website of Shih-Yuan Lee (FourDollars).
 
-## Professional Summary
-I am a Software Engineer and open-source enthusiast with a deep focus on the Linux ecosystem. As a long-time contributor and maintainer within the Debian and Ubuntu communities, I specialize in system-level development, automation, and infrastructure. My work spans from the Linux kernel and systemd to modern web technologies and cross-platform application development.
+Visit the live site at: [https://fourdollars.github.io/](https://fourdollars.github.io/)
 
-## Profiles
+## Building Locally
 
-* [Debian Packages overview](https://qa.debian.org/developer.php?login=fourdollars%40debian.org)
-* [HackerRank](https://www.hackerrank.com/profile/fourdollars)
-* [LeetCode](https://leetcode.com/u/fourdollars/)
-* [LinkedIn](https://www.linkedin.com/in/fourdollars/)
-* [Ubuntu Related packages](https://launchpad.net/~fourdollars/+related-packages)
-    * As a [Sponsor](https://udd.debian.org/cgi-bin/ubuntu-sponsorships.cgi?render=html&sponsor=Shih-Yuan+Lee*&sponsor_search=name&sponsoree=&sponsoree_search=name)
-    * As a [Sponsoree](https://udd.debian.org/cgi-bin/ubuntu-sponsorships.cgi?render=html&sponsor=&sponsor_search=name&sponsoree=Shih-Yuan+Lee*&sponsoree_search=name)
+To build this Jekyll site locally:
 
-## Recent Activity
-
-<div id="activity-feeds">
-  <div id="github-activity">
-    <h3>GitHub Activity</h3>
-    <p>Loading recent activity...</p>
-  </div>
-  <div id="blog-activity">
-    <h3>Recent Blog Posts</h3>
-    <p>Loading latest posts...</p>
-  </div>
-</div>
-
-<script src="/assets/js/feeds.js"></script>
+1.  Install Jekyll and Bundler: `gem install jekyll bundler`
+2.  Install dependencies: `bundle install`
+3.  Serve the site: `bundle exec jekyll serve`
