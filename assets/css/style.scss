@@ -38,3 +38,40 @@ header {
     gap: 10px;
   }
 }
+
+/* Activity Feeds Styling */
+#activity-feeds {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 40px;
+  
+  #github-activity, #blog-activity {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    
+    h3 {
+      margin-top: 0;
+      border-bottom: 2px solid #007bff;
+      padding-bottom: 5px;
+      display: inline-block;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 10px 0 0 0;
+      
+      li {
+        padding: 8px 0;
+        border-bottom: 1px solid #f0f0f0;
+        
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+    }
+  }
+}
