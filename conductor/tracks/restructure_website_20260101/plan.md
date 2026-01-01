@@ -3,7 +3,7 @@
 ## Phase 1: Multi-Page Scaffolding & Navigation
 
 - [x] Task: Create a shared navigation layout/header template
-- [ ] Task: Initialize new page files: `projects.md`, `slides.md`, `contributions.md`
+- [~] Task: Initialize new page files: `projects.md`, `slides.md`, `contributions.md`
 - [ ] Task: Implement a responsive navigation menu across all pages
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Multi-Page Scaffolding & Navigation' (Protocol in workflow.md)
 
