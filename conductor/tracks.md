@@ -7,5 +7,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-## [ ] Track: Portfolio Restructuring & Professionalization
+## [~] Track: Portfolio Restructuring & Professionalization
 *Link: [./conductor/tracks/restructure_website_20260101/](./conductor/tracks/restructure_website_20260101/)*

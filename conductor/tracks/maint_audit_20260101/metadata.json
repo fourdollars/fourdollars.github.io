@@ -1,8 +1,0 @@
-{
-  "track_id": "maint_audit_20260101",
-  "type": "feature",
-  "status": "new",
-  "created_at": "2026-01-01T00:00:00Z",
-  "updated_at": "2026-01-01T00:00:00Z",
-  "description": "Project Maintenance & Enhancement: Audit existing project links in README.md, ensure all side projects have clear descriptions following the new guidelines, and verify the Jekyll build process."
-}
