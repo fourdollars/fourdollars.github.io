@@ -28,46 +28,59 @@
 
 * Bash
     * Concourse CI resource types
-        * [autopkgtest-resource](https://github.com/fourdollars/autopkgtest-resource) autopkgtest for ubuntu:latest
-        * [deb-versions-resource](https://github.com/fourdollars/deb-versions-resource) Watch the versions of Debian binary packages and download those Debian binary packages
-        * [dput-ppa-resource](https://github.com/fourdollars/dput-ppa-resource) dput Debian source package into Ubuntu PPA
-        * [http-resource](https://github.com/fourdollars/http-resource) Watch and download HTTP URL by curl
-        * [jenkins-resource](https://github.com/fourdollars/jenkins-resource) Watch and trigger the Jenkins builds
-        * [jira-resource](https://github.com/fourdollars/jira-resource) A simple jira wrapper
-        * [launchpad-bug-resource](https://github.com/fourdollars/launchpad-bug-resource) Watch the Launchpad bug status changes
-        * [lp-api-resource](https://github.com/fourdollars/lp-api-resource) A simple lp-api wrapper
-        * [mattermost-notification-resource](https://github.com/fourdollars/mattermost-notification-resource) Send the message to Mattermost
-        * [rclone-resource](https://github.com/fourdollars/rclone-resource) A simple rclone wrapper
-        * [samba-resource](https://github.com/fourdollars/samba-resource) Samba storage
-        * [trigger-resource](https://github.com/fourdollars/trigger-resource) Generate random digest everytime when it checks or puts
-        * [webdav-resource](https://github.com/fourdollars/webdav-resource) WebDAV storage
+        * [autopkgtest-resource](https://github.com/fourdollars/autopkgtest-resource)
+            * Automate Ubuntu autopkgtest execution for the latest releases.
+        * [deb-versions-resource](https://github.com/fourdollars/deb-versions-resource)
+            * Monitor and download specific versions of Debian binary packages automatically.
+        * [dput-ppa-resource](https://github.com/fourdollars/dput-ppa-resource)
+            * Streamline the process of uploading Debian source packages to Ubuntu PPAs.
+        * [http-resource](https://github.com/fourdollars/http-resource)
+            * Track and download files from HTTP URLs using curl with automated monitoring.
+        * [jenkins-resource](https://github.com/fourdollars/jenkins-resource)
+            * Automate Jenkins build triggering and status monitoring.
+        * [jira-resource](https://github.com/fourdollars/jira-resource)
+            * Simplify Jira interactions with a streamlined wrapper.
+        * [launchpad-bug-resource](https://github.com/fourdollars/launchpad-bug-resource)
+            * Monitor Launchpad bug status transitions in real-time.
+        * [lp-api-resource](https://github.com/fourdollars/lp-api-resource)
+            * Interact with the Launchpad API through a simplified interface.
+        * [mattermost-notification-resource](https://github.com/fourdollars/mattermost-notification-resource)
+            * Send automated status messages and notifications to Mattermost.
+        * [rclone-resource](https://github.com/fourdollars/rclone-resource)
+            * Integrate rclone for flexible cloud storage synchronization.
+        * [samba-resource](https://github.com/fourdollars/samba-resource)
+            * Enable seamless integration with Samba storage for automated workflows.
+        * [trigger-resource](https://github.com/fourdollars/trigger-resource)
+            * Force pipeline execution by generating a unique digest on every check.
+        * [webdav-resource](https://github.com/fourdollars/webdav-resource)
+            * Provide automated access and storage capabilities via WebDAV.
 * C
     * [ibus-zhuyin](/ibus-zhuyin/)
-        * ibus-zhuyin - a phonetic (Zhuyin/Bopomofo) Chinese input method.
+        * Enable phonetic (Zhuyin/Bopomofo) Chinese input on Linux systems.
     * [x11-touchscreen-calibrator](/x11-touchscreen-calibrator/)
-        * X11 Touchscreen Calibrator runs as a daemon in the background. It will detect the touchscreen automatically and adjust the corresponding Coordinate Transformation Matrix of Touchscreen xinput when the resolution is changed. It should also support rotation, reflection and different scaling modes of display output.
+        * Automatically calibrate and adjust touchscreen matrices in X11 across resolution changes and rotations.
 * Flutter
     * [cid-holder](https://github.com/fourdollars/cid-holder)
-        * A Flutter webapp project that scans the QR codes
+        * Scan and manage QR codes efficiently with a high-performance Flutter web application.
 * Python
     * [diaas](/diaas/)
-        * debian-installer (d-i) as a service
+        * Provide Debian-installer (d-i) as a scalable network service.
     * [energy-tools](/energy-tools/)
-        * This program is designed to collect the system profile and calculate the results of Energy Star (5.2 & 6.0 & 7.0 & 8.0) and ErP Lot 3 (Jan. 2016) or Lot 26 Tier 3 (Jan. 2019).
+        * Calculate and verify system compliance for Energy Star and ErP Lot standards.
     * [lp-api-proxy](https://github.com/fourdollars/lp-api-proxy)
-        * Launchpad API Proxy made by FastAPI to workaround CORS for https://api.launchpad.net/.
+        * Enable cross-origin access to the Launchpad API via a FastAPI-based proxy.
     * [concourse-ci-machine](/concourse-ci-machine/)
-        * Concourse CI charm for Juju machine model instead of k8s model.
+        * Deploy Concourse CI on Juju machine models with a flexible Python-based charm.
 * Go
     * [lp-api](https://github.com/fourdollars/lp-api)
-        * A command line tool made by golang to interact with Launchpad API
+        * Command-line interface for efficient interaction with the Launchpad API.
 * Rust
     * [commits-tilewall](https://github.com/fourdollars/commits-tilewall)
-        * A Rust application that generates a visual representation of commit activity across multiple local Git repositories.
+        * Visualize Git commit activity across multiple repositories with a generated tile-wall representation.
     * [rust-playground](https://github.com/fourdollars/rust-playground)
-        * Some examples for learning Rust programming language
+        * Learn Rust through a curated collection of documented programming examples.
     * [webhook-relay](https://github.com/fourdollars/webhook-relay)
-        * Similar to https://smee.io/ but with additional secure supports for signature checking and encrypted payload.
+        * Securely relay webhooks with support for signature verification and encrypted payloads.
 
 ## Open source contributions
 
