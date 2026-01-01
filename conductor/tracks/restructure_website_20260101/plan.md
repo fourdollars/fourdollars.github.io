@@ -10,7 +10,7 @@
 ## Phase 2: Content Migration & Homepage Bio
 
 - [x] Task: Migrate Side Projects list from README.md to `projects.md`
-- [ ] Task: Migrate Slides and Blogs references to `slides.md`
+- [x] Task: Migrate Slides and Blogs references to `slides.md`
 - [ ] Task: Migrate Open Source Contributions to `contributions.md`
 - [ ] Task: Refactor the homepage (README.md/index.md) to focus on a professional bio and highlights
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Content Migration & Homepage Bio' (Protocol in workflow.md)
