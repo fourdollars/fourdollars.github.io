@@ -5,6 +5,7 @@
 - **Audience-Aware:** Write with the engineering recruiter or technical collaborator in mind, using industry-standard terminology.
 
 ## Structural Consistency
+- **Multi-Page Organization:** Maintain a clear separation between the bio (homepage), projects, slides, and contributions.
 - **Impact-First Descriptions:** Every project or contribution description must start with a clear statement of its purpose or the problem it solves.
 - **Link Integrity:** Ensure all external links to profiles, repositories, and slides are functional and use descriptive anchor text.
 - **Categorization:** Maintain the existing organization of projects by programming language and contributions by ecosystem (e.g., Linux, GNOME).

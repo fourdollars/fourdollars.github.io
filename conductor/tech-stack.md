@@ -3,6 +3,7 @@
 ## Core Technologies
 - **Jekyll:** Used as the static site generator to transform Markdown files into a functional website.
 - **Markdown:** The primary format for managing content, project lists, and professional profiles.
+- **JavaScript (ES6):** Implements client-side dynamic fetching for GitHub activity and blog feeds.
 - **GitHub Pages:** The hosting platform used for deployment.
 
 ## UI/UX
