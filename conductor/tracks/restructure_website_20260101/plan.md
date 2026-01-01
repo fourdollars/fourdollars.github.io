@@ -17,7 +17,7 @@
 
 ## Phase 3: Homepage Dynamic Feeds (JS Integration)
 
-- [ ] Task: Implement client-side JS component for GitHub Activity Feed
+- [x] Task: Implement client-side JS component for GitHub Activity Feed
 - [ ] Task: Implement client-side JS component for Blog RSS Feed (via RSS-to-JSON)
 - [ ] Task: Integrate and style feeds on the homepage
 - [ ] Task: Conductor - User Manual Verification 'Phase 3: Homepage Dynamic Feeds (JS Integration)' (Protocol in workflow.md)
