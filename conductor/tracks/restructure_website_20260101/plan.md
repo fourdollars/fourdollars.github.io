@@ -1,6 +1,6 @@
 # Track Plan: Portfolio Restructuring & Professionalization
 
-## Phase 1: Multi-Page Scaffolding & Navigation
+## Phase 1: Multi-Page Scaffolding & Navigation [checkpoint: b256445]
 
 - [x] Task: Create a shared navigation layout/header template
 - [x] Task: Initialize new page files: `projects.md`, `slides.md`, `contributions.md`
