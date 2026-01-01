@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Slides & Talks
-permalink: /slides/
 ---
 
 # Slides & Talks

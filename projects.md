@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Side Projects
-permalink: /projects/
 ---
 
 # Side Projects
