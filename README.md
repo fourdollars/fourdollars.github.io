@@ -56,6 +56,8 @@
         * This program is designed to collect the system profile and calculate the results of Energy Star (5.2 & 6.0 & 7.0 & 8.0) and ErP Lot 3 (Jan. 2016) or Lot 26 Tier 3 (Jan. 2019).
     * [lp-api-proxy](https://github.com/fourdollars/lp-api-proxy)
         * Launchpad API Proxy made by FastAPI to workaround CORS for https://api.launchpad.net/.
+    * [concourse-ci-machine](/concourse-ci-machine/)
+        * Concourse CI charm for Juju machine model instead of k8s model.
 * Go
     * [lp-api](https://github.com/fourdollars/lp-api)
         * A command line tool made by golang to interact with Launchpad API
