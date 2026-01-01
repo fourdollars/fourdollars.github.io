@@ -15,7 +15,7 @@
 - [x] Task: Refactor the homepage (README.md/index.md) to focus on a professional bio and highlights
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Content Migration & Homepage Bio' (Protocol in workflow.md)
 
-## Phase 3: Homepage Dynamic Feeds (JS Integration)
+## Phase 3: Homepage Dynamic Feeds (JS Integration) [checkpoint: 7d4e59c]
 
 - [x] Task: Implement client-side JS component for GitHub Activity Feed
 - [x] Task: Implement client-side JS component for Blog RSS Feed (via RSS-to-JSON)
