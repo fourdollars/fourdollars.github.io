@@ -24,6 +24,6 @@
 
 ## Phase 4: Final Polishing & Build Verification
 
-- [ ] Task: Audit mobile responsiveness and accessibility of the new layout
+- [x] Task: Audit mobile responsiveness and accessibility of the new layout
 - [ ] Task: Verify the full site build via local analysis or dry-run
 - [ ] Task: Conductor - User Manual Verification 'Phase 4: Final Polishing & Build Verification' (Protocol in workflow.md)
