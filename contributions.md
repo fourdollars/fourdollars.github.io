@@ -19,6 +19,7 @@ title: Open Source Contributions
 * [Dell Recovery](https://github.com/dell/dell-recovery/commits?author=fourdollars)
 * [Checkbox](https://github.com/canonical/checkbox/commits?author=fourdollars)
 * [PCManX GTK+](https://github.com/pcman-bbs/pcmanx/commits?author=fourdollars)
+* [Homebrew](https://github.com/Homebrew/brew/commits?author=fourdollars)
 
 ## Web related technology
 * [kore](https://github.com/jorisvink/kore/commits?author=fourdollars) An easy to use, scalable and secure web application framework for writing web APIs in C or Python.
