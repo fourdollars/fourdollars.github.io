@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   fetchGitHubActivity('fourdollars');
   fetchBlogPosts('fourdollars');
+  fetchMediumPosts('fourdollars');
 });
 
 function fetchGitHubActivity(username) {
@@ -52,5 +53,32 @@ function fetchBlogPosts(username) {
     .catch(error => {
       console.error('Error fetching blog posts:', error);
       blogContainer.innerHTML = '<h3>Recent Blog Posts</h3><p>Unable to load blog posts.</p>';
+    });
+}
+
+function fetchMediumPosts(username) {
+  const mediumContainer = document.getElementById('medium-activity');
+  if (!mediumContainer) return;
+
+  const mediumUrl = `https://medium.com/feed/@${username}`;
+  const rss2jsonApi = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(mediumUrl)}`;
+
+  fetch(rss2jsonApi)
+    .then(response => response.json())
+    .then(data => {
+      if (data.status === 'ok') {
+        const posts = data.items.slice(0, 5);
+        let html = '<ul>';
+        posts.forEach(post => {
+          const date = new Date(post.pubDate).toLocaleDateString();
+          html += `<li><a href="${post.link}" target="_blank">${post.title}</a> on ${date}</li>`;
+        });
+        html += '</ul>';
+        mediumContainer.innerHTML = '<h3>Medium Articles</h3>' + html;
+      }
+    })
+    .catch(error => {
+      console.error('Error fetching Medium posts:', error);
+      mediumContainer.innerHTML = '<h3>Medium Articles</h3><p>Unable to load articles.</p>';
     });
 }
