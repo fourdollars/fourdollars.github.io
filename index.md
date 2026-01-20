@@ -25,13 +25,13 @@ I am a Software Engineer and open-source enthusiast with a deep focus on the Lin
     <h3>GitHub Activity</h3>
     <p>Loading recent activity...</p>
   </div>
-  <div id="blog-activity">
-    <h3>Recent Blog Posts</h3>
-    <p>Loading latest posts...</p>
-  </div>
   <div id="medium-activity">
     <h3>Medium Articles</h3>
     <p>Loading latest articles...</p>
+  </div>
+  <div id="blog-activity">
+    <h3>Recent Blog Posts</h3>
+    <p>Loading latest posts...</p>
   </div>
 </div>
 
