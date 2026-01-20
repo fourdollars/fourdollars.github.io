@@ -22,7 +22,7 @@ function fetchGitHubActivity(username) {
         if (event.type === 'PushEvent' && event.payload.head) {
           activityUrl = `https://github.com/${repoName}/commit/${event.payload.head}`;
         } else if (event.type === 'PullRequestEvent' && event.payload.pull_request) {
-          activityUrl = event.payload.pull_request.html_url;
+          activityUrl = event.payload.pull_request.html_url || `https://github.com/${repoName}/pull/${event.payload.pull_request.number}`;
         } else if (event.type === 'IssueCommentEvent' && event.payload.comment) {
           activityUrl = event.payload.comment.html_url;
         } else if (event.type === 'IssuesEvent' && event.payload.issue) {
