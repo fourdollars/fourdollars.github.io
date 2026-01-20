@@ -11,7 +11,7 @@ function fetchGitHubActivity(username) {
   fetch(`https://api.github.com/users/${username}/events/public`)
     .then(response => response.json())
     .then(data => {
-      const events = data.slice(0, 5); // Get last 5 events
+      const events = data; // Show all available events (usually default to 30)
       let html = '<ul>';
       events.forEach(event => {
         const repoName = event.repo.name;
