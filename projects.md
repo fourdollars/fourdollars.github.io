@@ -33,6 +33,8 @@ title: Side Projects
             * Force pipeline execution by generating a unique digest on every check.
         * [webdav-resource](https://github.com/fourdollars/webdav-resource)
             * Provide automated access and storage capabilities via WebDAV.
+    * [openclaw-charm](https://github.com/fourdollars/openclaw-charm)
+        * Deploy OpenClaw, your self-hosted personal AI assistant, with a single command using Juju.
 * C
     * [ibus-zhuyin](/ibus-zhuyin/)
         * Enable phonetic (Zhuyin/Bopomofo) Chinese input on Linux systems.
@@ -50,6 +52,10 @@ title: Side Projects
         * Enable cross-origin access to the Launchpad API via a FastAPI-based proxy.
     * [concourse-ci-machine](/concourse-ci-machine/)
         * Deploy Concourse CI on Juju machine models with a flexible Python-based charm.
+    * [grafana-machine](https://github.com/fourdollars/grafana-machine)
+        * Grafana visualization platform for machine deployments.
+    * [prometheus-machine](https://github.com/fourdollars/prometheus-machine)
+        * Prometheus monitoring system for machine deployments.
 * Go
     * [lp-api](https://github.com/fourdollars/lp-api)
         * Command-line interface for efficient interaction with the Launchpad API.
