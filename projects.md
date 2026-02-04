@@ -33,7 +33,7 @@ title: Side Projects
             * Force pipeline execution by generating a unique digest on every check.
         * [webdav-resource](https://github.com/fourdollars/webdav-resource)
             * Provide automated access and storage capabilities via WebDAV.
-    * [openclaw-charm](https://github.com/fourdollars/openclaw-charm)
+    * [openclaw-charm](/openclaw-charm/)
         * Deploy OpenClaw, your self-hosted personal AI assistant, with a single command using Juju.
 * C
     * [ibus-zhuyin](/ibus-zhuyin/)
@@ -64,5 +64,5 @@ title: Side Projects
         * Visualize Git commit activity across multiple repositories with a generated tile-wall representation.
     * [rust-playground](https://github.com/fourdollars/rust-playground)
         * Learn Rust through a curated collection of documented programming examples.
-    * [webhook-relay](https://github.com/fourdollars/webhook-relay)
+    * [webhook-relay](/webhook-relay/)
         * Securely relay webhooks with support for signature verification and encrypted payloads.
