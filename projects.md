@@ -57,6 +57,8 @@ title: Side Projects
     * [prometheus-machine](https://github.com/fourdollars/prometheus-machine)
         * Prometheus monitoring system for machine deployments.
 * Go
+    * [cella](/cella/)
+        * A terminal UI and CLI for managing and monitoring LXD + Docker containers — real-time metrics, syscall tracing, HTTPS interception with operator approval, and AI inference monitoring.
     * [lp-api](https://github.com/fourdollars/lp-api)
         * Command-line interface for efficient interaction with the Launchpad API.
 * Rust
