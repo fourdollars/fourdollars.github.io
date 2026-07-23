@@ -35,6 +35,8 @@ title: Side Projects
             * Provide automated access and storage capabilities via WebDAV.
     * [openclaw-charm](/openclaw-charm/)
         * Deploy OpenClaw, your self-hosted personal AI assistant, with a single command using Juju.
+    * [hermes-charm](/hermes-charm/)
+        * Deploy Hermes Agent, your self-hosted personal AI assistant, with a single command using Juju.
 * C
     * [ibus-zhuyin](/ibus-zhuyin/)
         * Enable phonetic (Zhuyin/Bopomofo) Chinese input on Linux systems.
