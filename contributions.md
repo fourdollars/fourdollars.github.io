@@ -25,3 +25,6 @@ title: Open Source Contributions
 * [kore](https://github.com/jorisvink/kore/commits?author=fourdollars) An easy to use, scalable and secure web application framework for writing web APIs in C or Python.
 * [smee.io](https://github.com/probot/smee.io/commits?author=fourdollars) Webhook payload delivery service
 * [sse-client](https://github.com/viniciusgerevini/sse-client/commits?author=fourdollars) EventSource implementation in Rust to handle streams of Server-Sent Events
+
+## AI Agent
+* [Hermes Agent](https://github.com/NousResearch/hermes-agent/issues/69931#issuecomment-5312610394) Enhance MCP 2026-07-28 protocol revision support
