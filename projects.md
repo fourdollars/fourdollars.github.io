@@ -65,7 +65,7 @@ title: Side Projects
         * Command-line interface for efficient interaction with the Launchpad API.
 * Rust
     * [rune](https://fourdollars.github.io/rune/)
-        * A high-performance, zero-trust AI agent with a 5-layer sandbox, interactive CLI, and Concourse CI resource type support.
+        * A high-performance, zero-trust AI agent in Rust. Single binary featuring CLI assistant, Concourse CI, collaborative Markdown MCP hub with built-in AI chat, and browser extension.
     * [commits-tilewall](https://github.com/fourdollars/commits-tilewall)
         * Visualize Git commit activity across multiple repositories with a generated tile-wall representation.
     * [rust-playground](https://github.com/fourdollars/rust-playground)
