@@ -54,6 +54,8 @@ title: Side Projects
         * Enable cross-origin access to the Launchpad API via a FastAPI-based proxy.
     * [concourse-ci-machine](/concourse-ci-machine/)
         * Deploy Concourse CI on Juju machine models with a flexible Python-based charm.
+    * [docker-compose-machine](https://github.com/fourdollars/docker-compose-machine)
+        * A minimal Juju machine charm for rapidly deploying arbitrary `docker-compose.yml` services inside a Juju environment.
     * [grafana-machine](https://github.com/fourdollars/grafana-machine)
         * Grafana visualization platform for machine deployments.
     * [prometheus-machine](https://github.com/fourdollars/prometheus-machine)
